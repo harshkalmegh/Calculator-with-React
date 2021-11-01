@@ -1,0 +1,9 @@
+.head {
+  color: red;
+  text-align: center;
+}
+
+.head:hover {
+  color: rgb(255, 155, 155);
+  text-align: center;
+}

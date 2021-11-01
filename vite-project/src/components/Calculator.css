@@ -1,0 +1,21 @@
+.firstinput {
+  width: 150px;
+  outline-style: none;
+  margin: 20px;
+  padding: 5px;
+}
+
+.secondinput {
+  padding: 5px;
+  width: 150px;
+  outline-style: none;
+  margin: 20px;
+}
+
+.btn button {
+  margin: 20px;
+}
+
+.sum {
+  margin: 20px;
+}
